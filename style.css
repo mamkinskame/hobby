@@ -1,0 +1,56 @@
+.nav{
+display: flex;
+justify-content: center;
+gap: 50px;
+list-style: none;
+}
+.Contact{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+}
+.tech-skils{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    list-style: none;
+    
+}
+.Hello{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+.Front-end{
+display: flex;
+justify-content: center;
+gap: 50px;
+list-style: none;
+}
+.tech-stack{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+img{
+    margin-left: 700px;
+}
+header, footer{
+    display: flex;
+    justify-content: space-around;
+    background-color:aqua;
+    height: 50px;
+}
+a{
+    font-size: 22px;
+    color: white;
+    text-decoration: none;
+}
+h1{
+    margin-top: 200px;
+}
+body{
+    margin: 0;
+}
+
